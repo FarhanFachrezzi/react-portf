@@ -78,7 +78,7 @@ const Contact = () => {
           }}
           animate={
             isInView && {
-              opacity: 1,
+              opacity: 0,
               transition: {
                 delay: 3,
                 duration: 1,
