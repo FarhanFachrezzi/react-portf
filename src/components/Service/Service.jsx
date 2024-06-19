@@ -3,6 +3,7 @@ import React from "react";
 import "./service.scss";
 import Card from "./Card";
 import { motion } from "framer-motion";
+import people from "/public/people.webp";
 
 const Service = () => {
   const variants = {
@@ -37,7 +38,7 @@ const Service = () => {
       </motion.div>
       <motion.div className="text-container" variants={variants}>
         <div className="text-1">
-          <img src="/public/people.webp" alt="" width={1000} height={200} />
+          <img src={people} alt="" width={1000} height={200} />
           <h1>
             <b>Unique</b> Ideas
           </h1>
