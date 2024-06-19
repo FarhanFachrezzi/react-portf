@@ -1,7 +1,7 @@
 import "./app.scss";
 import Hero from "./components/Hero/Hero";
 import Service from "./components/Service/Service";
-import Contact from "./components/contact/contact";
+import Contact from "./components/contact/Contact";
 import Cursor from "./components/cursor/Cursor";
 import Navbar from "./components/navbar/Navbar";
 import Parallax from "./components/parallax/Parallax";
