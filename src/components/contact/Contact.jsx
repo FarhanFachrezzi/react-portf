@@ -59,7 +59,7 @@ const Contact = () => {
         </motion.h1>
         <motion.div className="item" variants={variants}>
           <h2>Mail</h2>
-          <span>gamingfarhan629@gmail.com</span>
+          <span>farhanachmadfachrezzi@gmail.com</span>
         </motion.div>
         <motion.div className="item" variants={variants}>
           <h2>Addres</h2>
